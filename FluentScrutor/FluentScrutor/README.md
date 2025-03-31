@@ -22,10 +22,3 @@ While Scrutor provides powerful decoration capabilities, registering multiple de
 * **.NET 8.0 SDK or later** (The library uses C# 12 features like primary constructors and collection expressions).
 * [**Scrutor**](https://www.nuget.org/packages/Scrutor/) NuGet package (Tested with v6.x, ensure compatibility).
 * `Microsoft.Extensions.DependencyInjection.Abstractions` (This is typically included when using ASP.NET Core or .NET Generic Host).
-
-## Installation
-
-Install the package via the .NET CLI:
-
-```bash
-dotnet add package FluentScrutor
